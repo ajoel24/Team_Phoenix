@@ -1,4 +1,7 @@
-# Team_Phoenix
-Place to build our website
+#IMPORTANT
 
-This is the main folder where the production code is generated.
+This is the directory where development takes place.
+Everyone develops their code here.
+Before modifying a file, tell everyone what you changed through commit log.
+
+Use this README.md file to post your doubts.
