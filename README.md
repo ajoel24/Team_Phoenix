@@ -1,7 +1,9 @@
 #IMPORTANT
 
-This is the directory where development takes place.
-Everyone develops their code here.
-Before modifying a file, tell everyone what you changed through commit log.
+DO NOT COMMIT TO THIS BRANCH!
+
+THIS IS THE MOST IMPORTANT BRANCH WHERE PRODUCTION CODE IS DEVELOPED.
+
+DO NOT ADD OR REMOVE FILES UNLESS SAID OTHERWISE!
 
 Use this README.md file to post your doubts.
