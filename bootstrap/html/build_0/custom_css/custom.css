@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    font-family: 'Noto Sans HK', sans-serif;
+}
+
+.custom-img{
+    height: 50%;
+    opacity: 0.9;
+}
+
+.custom-img:hover{
+    opacity: 1;
+}
+
+.custom-text-center{
+    position: absolute;
+    left: 0;
+    top: 80%;
+    width: 100%;
+    text-align: center;
+}
+
+.text-over-image:hover{
+    opacity: 0;
+}
+
+#text-white{
+    color: white;
+}
+
+.custom-jumbotron{
+    background-color: midnightblue;
+}
+
+#text-hover:hover{
+   text-decoration-line: underline;
+}
+
+#icon-bg-white{
+    color: white;
+}
